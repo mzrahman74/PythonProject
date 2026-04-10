@@ -1,0 +1,4 @@
+greeting = "Good Morning"
+
+if greeting == "Morning":
+    print(
