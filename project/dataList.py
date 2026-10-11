@@ -1,4 +1,4 @@
-from project.basic import a, c
+from project import a, c
 
 values = [1, 2, "mohammad", 100, 102]
 # list is data type that allows multiple values and can be different data types
